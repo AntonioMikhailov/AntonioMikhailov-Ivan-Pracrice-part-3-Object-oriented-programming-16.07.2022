@@ -1,0 +1,3 @@
+# не загружаем папки dist и  node_modules
+111
+node_modules
